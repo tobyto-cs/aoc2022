@@ -1,0 +1,3 @@
+/home/jeremy/projects/aoc2022/day1/build/CMakeFiles/main.dir
+/home/jeremy/projects/aoc2022/day1/build/CMakeFiles/edit_cache.dir
+/home/jeremy/projects/aoc2022/day1/build/CMakeFiles/rebuild_cache.dir
